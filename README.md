@@ -42,7 +42,7 @@ A collaborative study platform for students to share resources and track progres
 
 ## 🌍 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/AyyadAsif)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:ayyadasif7853@gmail.com)
 
 ⚡ **Seeking remote job opportunities in the US or other well-paying markets. Open to freelance and full-time roles!**
