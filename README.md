@@ -14,7 +14,7 @@ I'm a BSCS student at FAST NUCES Lahore, graduating in 2025. Passionate about bu
 
 ## 📌 Featured Projects
 
-### [🔗 BillMate (Final Year Project)](https://github.com/BillMate)
+### [🔗 BillMate (Final Year Project)](https://github.com/AyyadAsif/BillMate)
 A Vision-Based Utility Bills Management System for efficient tracking and payments.
 - React Native (Mobile App) | Django (Backend)
 - OCR & AI-based bill recognition
